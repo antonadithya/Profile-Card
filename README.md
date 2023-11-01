@@ -1,2 +1,2 @@
-# profilecard.github.io
-https://antonadithya.github.io/profilecard.github.io/
+# profile card
+https://antonadithya.github.io/Profile-Card/
